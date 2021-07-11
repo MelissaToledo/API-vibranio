@@ -2,11 +2,11 @@
 
 crear una rest api conectada a mysql : vibraniodb
 
-tabla: construcción
+tabla 1: construcción -->
     id, product_name, type(herramienta, equipo o material), description, price, store, link
 
-tabla: electricidad
+tabla 2: electricidad -->
     id, product_name, type(herramienta, equipo o material), description, price, store, link
 
-tabla: poda de arboles
+tabla 3: poda de arboles -->
     id, product_name, type(herramienta, equipo o material), description, price, store, link
